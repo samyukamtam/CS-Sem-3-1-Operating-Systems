@@ -1,0 +1,7 @@
+Sources used : 
+1. https://stackoverflow.com/questions/10676299/fastest-file-reading-in-a-multi-threaded-application
+2. https://www.geeksforgeeks.org/multithreading-c-2/
+3. https://www.geeksforgeeks.org/signal-handling-in-cpp/
+4. http://faculty.winthrop.edu/domanm/csci411/Projects/DispatcherLab.pdf
+5. https://stackoverflow.com/questions/2438953/how-is-fseek-implemented-in-the-filesystem
+6. https://www.geeksforgeeks.org/how-to-measure-time-taken-by-a-program-in-c/
